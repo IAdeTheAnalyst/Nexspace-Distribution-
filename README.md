@@ -19,7 +19,7 @@ This project focuses on wholesale distribution performance for Nexspace Distribu
 
 ## 📊 Dashboard Preview
 
-![Nexspace Excel Dashboard](Nexspace Dashboard.png)
+![Nexspace Excel Dashboard](Nexspace-Dashboard.png)
 
 ---
 
